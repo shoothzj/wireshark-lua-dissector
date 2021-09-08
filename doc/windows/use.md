@@ -11,7 +11,7 @@
 - ![field](image/protobuf_field.png)
 #### step3 执行脚本，将lua放入到wireshark的插件目录
 ```bash
-bash scripts/mac/deploy.sh
+scripts/windows/deploy.bat
 ```
 #### step4 重启或热加载Wireshark
 热加载Wireshark插件: Ctrl + Shift + L
